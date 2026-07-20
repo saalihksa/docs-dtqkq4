@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saalihksa.github.io/docs-dtqkq4/sitemap.xml
